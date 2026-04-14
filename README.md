@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno, tenho 19 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia e gosto de desenvolver projetos úteis que possam me retornar conhecimento e dinheiro.
+Me chamo Bruno, tenho 19 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia e gosto de desenvolver projetos úteis que possam me retornar conhecimento.
 
 ---
 
